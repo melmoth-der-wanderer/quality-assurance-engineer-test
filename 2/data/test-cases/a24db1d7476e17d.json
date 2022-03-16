@@ -1,0 +1,359 @@
+{
+  "uid" : "a24db1d7476e17d",
+  "name" : "Numerical sorting",
+  "fullName" : "Numerical sorting",
+  "historyId" : "webkit sorting_questions.spec.js User can sort existent questions Numerical sorting",
+  "time" : {
+    "start" : 1647444101205,
+    "stop" : 1647444103282,
+    "duration" : 2077
+  },
+  "status" : "failed",
+  "statusMessage" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-diff.png",
+  "statusTrace" : "\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/sorting_questions.spec.js:21:60",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-diff.png",
+    "statusTrace" : "\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/sorting_questions.spec.js:21:60",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647444101206,
+        "stop" : 1647444101744,
+        "duration" : 538
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647444101603,
+          "stop" : 1647444101744,
+          "duration" : 141
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(/)",
+      "time" : {
+        "start" : 1647444101747,
+        "stop" : 1647444102200,
+        "duration" : 453
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647444102202,
+        "stop" : 1647444102274,
+        "duration" : 72
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647444102281,
+        "stop" : 1647444102321,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647444102322,
+        "stop" : 1647444102411,
+        "duration" : 89
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647444102412,
+        "stop" : 1647444102438,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647444102439,
+        "stop" : 1647444102471,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647444102472,
+        "stop" : 1647444102559,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647444102560,
+        "stop" : 1647444102580,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647444102581,
+        "stop" : 1647444102595,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647444102596,
+        "stop" : 1647444102723,
+        "duration" : 127
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-primary)",
+      "time" : {
+        "start" : 1647444102724,
+        "stop" : 1647444102801,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.screenshot(.card)",
+      "time" : {
+        "start" : 1647444102802,
+        "stop" : 1647444102959,
+        "duration" : 157
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toMatchSnapshot",
+      "time" : {
+        "start" : 1647444102963,
+        "stop" : 1647444103276,
+        "duration" : 313
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647444103277,
+        "stop" : 1647444103282,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647444103279,
+          "stop" : 1647444103281,
+          "duration" : 2
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "8898de4f00ad1afb",
+      "name" : "expected",
+      "source" : "8898de4f00ad1afb.png",
+      "type" : "image/png",
+      "size" : 30605
+    }, {
+      "uid" : "b05da4cc598577d",
+      "name" : "actual",
+      "source" : "b05da4cc598577d.png",
+      "type" : "image/png",
+      "size" : 29270
+    }, {
+      "uid" : "1b83f1a521655b54",
+      "name" : "diff",
+      "source" : "1b83f1a521655b54.png",
+      "type" : "image/png",
+      "size" : 29642
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 17,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "sorting_questions.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "User can sort existent questions"
+  }, {
+    "name" : "testType",
+    "value" : "screenshotDiff"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7ea87d858f2e9bf0",
+      "status" : "failed",
+      "statusDetails" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry1/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry1/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry1/numerical-sorting-diff.png",
+      "time" : {
+        "start" : 1647444096021,
+        "stop" : 1647444100758,
+        "duration" : 4737
+      }
+    }, {
+      "uid" : "f719da444c236300",
+      "status" : "failed",
+      "statusDetails" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit/numerical-sorting-diff.png",
+      "time" : {
+        "start" : 1647444093580,
+        "stop" : 1647444095540,
+        "duration" : 1960
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a24db1d7476e17d.json",
+  "parameterValues" : [ ]
+}

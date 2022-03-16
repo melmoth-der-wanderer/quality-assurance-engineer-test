@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-firefox-retry2/alphabetical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-firefox-retry2/alphabetical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-firefox-retry2/alphabetical-sorting-diff.png",
+      "children" : [ {
+        "name" : "Alphabetical sorting",
+        "uid" : "23fb88757485a1ab",
+        "parentUid" : "da6c1399110f5849e104aa89178ad198",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647444055027,
+          "stop" : 1647444057890,
+          "duration" : 2863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da6c1399110f5849e104aa89178ad198"
+    }, {
+      "name" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-firefox-retry2/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-firefox-retry2/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-firefox-retry2/numerical-sorting-diff.png",
+      "children" : [ {
+        "name" : "Numerical sorting",
+        "uid" : "17efbea459cb249b",
+        "parentUid" : "ae18bd5b42e5ed2bf3c1413f17bc1f01",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647444067139,
+          "stop" : 1647444070036,
+          "duration" : 2897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ae18bd5b42e5ed2bf3c1413f17bc1f01"
+    }, {
+      "name" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-webkit-retry2/alphabetical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-webkit-retry2/alphabetical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Alphabetical-sorting-webkit-retry2/alphabetical-sorting-diff.png",
+      "children" : [ {
+        "name" : "Alphabetical sorting",
+        "uid" : "1385a1ab74c8e08d",
+        "parentUid" : "17bee1cef8b23d1d40fb66d6ae1f828a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647444091211,
+          "stop" : 1647444093121,
+          "duration" : 1910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17bee1cef8b23d1d40fb66d6ae1f828a"
+    }, {
+      "name" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-diff.png",
+      "children" : [ {
+        "name" : "Numerical sorting",
+        "uid" : "a24db1d7476e17d",
+        "parentUid" : "1332e388134e6361929b373e530a1cdd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647444101205,
+          "stop" : 1647444103282,
+          "duration" : 2077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1332e388134e6361929b373e530a1cdd"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
