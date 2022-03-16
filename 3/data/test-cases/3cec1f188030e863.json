@@ -1,0 +1,333 @@
+{
+  "uid" : "3cec1f188030e863",
+  "name" : "Numerical sorting",
+  "fullName" : "Numerical sorting",
+  "historyId" : "webkit sorting_questions.spec.js User can sort existent questions Numerical sorting",
+  "time" : {
+    "start" : 1647452965566,
+    "stop" : 1647452966643,
+    "duration" : 1077
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647452965566,
+        "stop" : 1647452965742,
+        "duration" : 176
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647452965616,
+          "stop" : 1647452965742,
+          "duration" : 126
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(/)",
+      "time" : {
+        "start" : 1647452965742,
+        "stop" : 1647452965905,
+        "duration" : 163
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647452965906,
+        "stop" : 1647452965962,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647452965962,
+        "stop" : 1647452965980,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647452965980,
+        "stop" : 1647452966077,
+        "duration" : 97
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647452966078,
+        "stop" : 1647452966093,
+        "duration" : 15
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647452966094,
+        "stop" : 1647452966120,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647452966121,
+        "stop" : 1647452966209,
+        "duration" : 88
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"question\"])",
+      "time" : {
+        "start" : 1647452966209,
+        "stop" : 1647452966232,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"answer\"])",
+      "time" : {
+        "start" : 1647452966233,
+        "stop" : 1647452966255,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-success)",
+      "time" : {
+        "start" : 1647452966256,
+        "stop" : 1647452966347,
+        "duration" : 91
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click(.btn-primary)",
+      "time" : {
+        "start" : 1647452966347,
+        "stop" : 1647452966427,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.screenshot(.card)",
+      "time" : {
+        "start" : 1647452966428,
+        "stop" : 1647452966549,
+        "duration" : 121
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toMatchSnapshot",
+      "time" : {
+        "start" : 1647452966549,
+        "stop" : 1647452966626,
+        "duration" : 77
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647452966627,
+        "stop" : 1647452966644,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647452966627,
+          "stop" : 1647452966644,
+          "duration" : 17
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 17,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "sorting_questions.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "User can sort existent questions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "a24db1d7476e17d",
+        "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/2//#testresult/a24db1d7476e17d",
+        "status" : "failed",
+        "statusDetails" : "Snapshot comparison failed:\n\nExpected: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-expected.png\nReceived: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-actual.png\n    Diff: /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/test-results/sorting_questions-User-can-sort-existent-questions-Numerical-sorting-webkit-retry2/numerical-sorting-diff.png",
+        "time" : {
+          "start" : 1647444101205,
+          "stop" : 1647444103282,
+          "duration" : 2077
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3cec1f188030e863.json",
+  "parameterValues" : [ ]
+}

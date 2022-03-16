@@ -1,0 +1,511 @@
+[ {
+  "uid" : "1dea2f203fbe5dbe",
+  "name" : "No questions",
+  "time" : {
+    "start" : 1647452954809,
+    "stop" : 1647452956453,
+    "duration" : 1644
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59ecfd0ba8dc2593",
+  "name" : "Empty list sorting",
+  "time" : {
+    "start" : 1647452966644,
+    "stop" : 1647452967168,
+    "duration" : 524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c26304845ed69c0b",
+  "name" : "Removing multiple questions",
+  "time" : {
+    "start" : 1647452936063,
+    "stop" : 1647452936395,
+    "duration" : 332
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "483b48ace4f46492",
+  "name" : "Removing empty list",
+  "time" : {
+    "start" : 1647452961087,
+    "stop" : 1647452961561,
+    "duration" : 474
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d30c7f0e95a27c9",
+  "name" : "Reviewing answer within multiple questions",
+  "time" : {
+    "start" : 1647452962107,
+    "stop" : 1647452962805,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8741f4ad6443b4a7",
+  "name" : "Removing single question",
+  "time" : {
+    "start" : 1647452935778,
+    "stop" : 1647452936063,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd2a2e05f7a14079",
+  "name" : "Reviewing pre-saved question",
+  "time" : {
+    "start" : 1647452947397,
+    "stop" : 1647452947933,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7f84b85b1a5f905",
+  "name" : "Reviewing answer within multiple questions",
+  "time" : {
+    "start" : 1647452947933,
+    "stop" : 1647452948614,
+    "duration" : 681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d666f99c06353612",
+  "name" : "Numerical sorting",
+  "time" : {
+    "start" : 1647452951560,
+    "stop" : 1647452952498,
+    "duration" : 938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a23bd31116cecf8a",
+  "name" : "Adding more questions to the list",
+  "time" : {
+    "start" : 1647452958192,
+    "stop" : 1647452958962,
+    "duration" : 770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c707f3cfa7bb4da",
+  "name" : "Removing single question",
+  "time" : {
+    "start" : 1647452959749,
+    "stop" : 1647452960317,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5382cff8b58cf535",
+  "name" : "Adding more questions to the list",
+  "time" : {
+    "start" : 1647452944186,
+    "stop" : 1647452944962,
+    "duration" : 776
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9555dc5e7ce8eca7",
+  "name" : "Question maker tooltip",
+  "time" : {
+    "start" : 1647452949979,
+    "stop" : 1647452950524,
+    "duration" : 545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4a160ee136b5b64",
+  "name" : "Hiding answer after expanding it",
+  "time" : {
+    "start" : 1647452948614,
+    "stop" : 1647452949348,
+    "duration" : 734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e07fc200dba88d3a",
+  "name" : "Removing empty list",
+  "time" : {
+    "start" : 1647452936395,
+    "stop" : 1647452936636,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c35930d5894837d6",
+  "name" : "Numerical sorting",
+  "time" : {
+    "start" : 1647452938727,
+    "stop" : 1647452939311,
+    "duration" : 584
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c1f3dd37436c451",
+  "name" : "No questions",
+  "time" : {
+    "start" : 1647452933281,
+    "stop" : 1647452933613,
+    "duration" : 332
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15ed26867f190fbd",
+  "name" : "Alphabetical sorting",
+  "time" : {
+    "start" : 1647452964374,
+    "stop" : 1647452965566,
+    "duration" : 1192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9531ce992977ea8d",
+  "name" : "Question field is required",
+  "time" : {
+    "start" : 1647452943328,
+    "stop" : 1647452943726,
+    "duration" : 398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39ba5b7b544de8a5",
+  "name" : "Empty list sorting",
+  "time" : {
+    "start" : 1647452939310,
+    "stop" : 1647452939764,
+    "duration" : 454
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60ad5eefc7f371de",
+  "name" : "Hiding answer after expanding it",
+  "time" : {
+    "start" : 1647452937278,
+    "stop" : 1647452937564,
+    "duration" : 286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebfc06234dad7437",
+  "name" : "Questions tooltip",
+  "time" : {
+    "start" : 1647452937566,
+    "stop" : 1647452937802,
+    "duration" : 236
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1cf47c662d62e2d8",
+  "name" : "Reviewing answer within multiple questions",
+  "time" : {
+    "start" : 1647452936898,
+    "stop" : 1647452937278,
+    "duration" : 380
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80004e4a73d45c26",
+  "name" : "Creating first question",
+  "time" : {
+    "start" : 1647452958961,
+    "stop" : 1647452959743,
+    "duration" : 782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29032fcf3a26b8c8",
+  "name" : "Question maker tooltip",
+  "time" : {
+    "start" : 1647452937802,
+    "stop" : 1647452938050,
+    "duration" : 248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "544566570a9e475b",
+  "name" : "Empty list sorting",
+  "time" : {
+    "start" : 1647452952498,
+    "stop" : 1647452952984,
+    "duration" : 486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cadc7b8f9fe2c229",
+  "name" : "No questions",
+  "time" : {
+    "start" : 1647452941952,
+    "stop" : 1647452942460,
+    "duration" : 508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4194085fd89ca95",
+  "name" : "Reviewing pre-saved question",
+  "time" : {
+    "start" : 1647452936638,
+    "stop" : 1647452936898,
+    "duration" : 260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7abde81e9cdc0862",
+  "name" : "Answer field is required",
+  "time" : {
+    "start" : 1647452943727,
+    "stop" : 1647452944186,
+    "duration" : 459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1dd542fddb5680db",
+  "name" : "Alphabetical sorting",
+  "time" : {
+    "start" : 1647452938054,
+    "stop" : 1647452938726,
+    "duration" : 672
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1aaceb94e7b6ce0f",
+  "name" : "Question field is required",
+  "time" : {
+    "start" : 1647452957404,
+    "stop" : 1647452957753,
+    "duration" : 349
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82d234b55433b681",
+  "name" : "One or more questions",
+  "time" : {
+    "start" : 1647452940145,
+    "stop" : 1647452941952,
+    "duration" : 1807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76f9706fba860a03",
+  "name" : "Creating first question",
+  "time" : {
+    "start" : 1647452944962,
+    "stop" : 1647452945690,
+    "duration" : 728
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30bf008dff5263c8",
+  "name" : "Question maker tooltip",
+  "time" : {
+    "start" : 1647452963833,
+    "stop" : 1647452964371,
+    "duration" : 538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc6170f959a34ea0",
+  "name" : "Removing single question",
+  "time" : {
+    "start" : 1647452945692,
+    "stop" : 1647452946245,
+    "duration" : 553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d4b6a9890840ab2",
+  "name" : "Hiding answer after expanding it",
+  "time" : {
+    "start" : 1647452962806,
+    "stop" : 1647452963374,
+    "duration" : 568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43c1d62fd7ae45e7",
+  "name" : "Adding more questions to the list",
+  "time" : {
+    "start" : 1647452935068,
+    "stop" : 1647452935412,
+    "duration" : 344
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb188bfa6075efc",
+  "name" : "Question field is required",
+  "time" : {
+    "start" : 1647452934581,
+    "stop" : 1647452934808,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "812277e8c5066d04",
+  "name" : "Removing empty list",
+  "time" : {
+    "start" : 1647452946886,
+    "stop" : 1647452947395,
+    "duration" : 509
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34dedd851fb7f8bc",
+  "name" : "Questions tooltip",
+  "time" : {
+    "start" : 1647452963376,
+    "stop" : 1647452963834,
+    "duration" : 458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ffda5f61a1e753b",
+  "name" : "One or more questions",
+  "time" : {
+    "start" : 1647452932582,
+    "stop" : 1647452933280,
+    "duration" : 698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e453f7164e486468",
+  "name" : "Answer field is required",
+  "time" : {
+    "start" : 1647452957753,
+    "stop" : 1647452958192,
+    "duration" : 439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8760dd55b8522357",
+  "name" : "One or more questions",
+  "time" : {
+    "start" : 1647452953898,
+    "stop" : 1647452954809,
+    "duration" : 911
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecae2d441852946b",
+  "name" : "Creating first question",
+  "time" : {
+    "start" : 1647452935412,
+    "stop" : 1647452935776,
+    "duration" : 364
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cec1f188030e863",
+  "name" : "Numerical sorting",
+  "time" : {
+    "start" : 1647452965566,
+    "stop" : 1647452966643,
+    "duration" : 1077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f38a6d9d9c8e609",
+  "name" : "Removing multiple questions",
+  "time" : {
+    "start" : 1647452960319,
+    "stop" : 1647452961086,
+    "duration" : 767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25272df1fab109c",
+  "name" : "Removing multiple questions",
+  "time" : {
+    "start" : 1647452946246,
+    "stop" : 1647452946885,
+    "duration" : 639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da90f2767437d4f3",
+  "name" : "Answer field is required",
+  "time" : {
+    "start" : 1647452934808,
+    "stop" : 1647452935067,
+    "duration" : 259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86d919e200441873",
+  "name" : "Alphabetical sorting",
+  "time" : {
+    "start" : 1647452950526,
+    "stop" : 1647452951560,
+    "duration" : 1034
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28541ccff7589f74",
+  "name" : "Reviewing pre-saved question",
+  "time" : {
+    "start" : 1647452961565,
+    "stop" : 1647452962105,
+    "duration" : 540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bee7cb0f1b522cfd",
+  "name" : "Questions tooltip",
+  "time" : {
+    "start" : 1647452949349,
+    "stop" : 1647452949979,
+    "duration" : 630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
