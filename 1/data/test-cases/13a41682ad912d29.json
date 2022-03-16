@@ -1,0 +1,137 @@
+{
+  "uid" : "13a41682ad912d29",
+  "name" : "Alphabetical sorting",
+  "fullName" : "Alphabetical sorting",
+  "historyId" : " tests/sorting_questions.spec.js User can sort existent questions Alphabetical sorting",
+  "time" : {
+    "start" : 1647442293464,
+    "stop" : 1647442293719,
+    "duration" : 255
+  },
+  "status" : "failed",
+  "statusMessage" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+  "statusTrace" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================\n    at QuestionsPage.goto (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/pages/questionsPage.js:34:21)\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/sorting_questions.spec.js:10:25\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:373:13\n    at TestInfoImpl._runFn (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/testInfo.js:164:7)\n    at WorkerRunner._runTestWithBeforeHooks (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:348:24)\n    at TestInfoImpl._runWithTimeout (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/testInfo.js:152:7)\n    at WorkerRunner._runTestOrAllHook (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:308:5)\n    at WorkerRunner._runSuite (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:221:43)\n    at WorkerRunner._runSuite (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:217:9)\n    at WorkerRunner.run (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:163:9)\n    at process.<anonymous> (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/worker.js:94:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+    "statusTrace" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================\n    at QuestionsPage.goto (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/pages/questionsPage.js:34:21)\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/tests/sorting_questions.spec.js:10:25\n    at /home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:373:13\n    at TestInfoImpl._runFn (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/testInfo.js:164:7)\n    at WorkerRunner._runTestWithBeforeHooks (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:348:24)\n    at TestInfoImpl._runWithTimeout (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/testInfo.js:152:7)\n    at WorkerRunner._runTestOrAllHook (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:308:5)\n    at WorkerRunner._runSuite (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:221:43)\n    at WorkerRunner._runSuite (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:217:9)\n    at WorkerRunner.run (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/workerRunner.js:163:9)\n    at process.<anonymous> (/home/runner/work/quality-assurance-engineer-test/quality-assurance-engineer-test/node_modules/@playwright/test/lib/worker.js:94:5)",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1647442293465,
+        "stop" : 1647442293702,
+        "duration" : 237
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1647442293659,
+          "stop" : 1647442293702,
+          "duration" : 43
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(/)",
+      "time" : {
+        "start" : 1647442293705,
+        "stop" : 1647442293709,
+        "duration" : 4
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1647442293709,
+        "stop" : 1647442293719,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1647442293713,
+          "stop" : 1647442293719,
+          "duration" : 6
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "tests/sorting_questions.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "User can sort existent questions"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "13a41682ad912d29.json",
+  "parameterValues" : [ ]
+}

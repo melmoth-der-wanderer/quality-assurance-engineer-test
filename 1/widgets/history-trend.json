@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 17,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 17
+  }
+} ]

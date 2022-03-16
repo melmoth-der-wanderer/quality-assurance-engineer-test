@@ -1,0 +1,359 @@
+{
+  " tests/sorting_questions.spec.js User can sort existent questions Alphabetical sorting" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "13a41682ad912d29",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/13a41682ad912d29",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442293464,
+        "stop" : 1647442293719,
+        "duration" : 255
+      }
+    } ]
+  },
+  " tests/showing_tooltips.spec.js User can see informers while using interface Questions tooltip" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9a567f8662196d89",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/9a567f8662196d89",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442292201,
+        "stop" : 1647442292452,
+        "duration" : 251
+      }
+    } ]
+  },
+  " tests/removing_questions.spec.js User can remove saved questions Removing single question" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d6507396369b8f25",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/d6507396369b8f25",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442283769,
+        "stop" : 1647442284023,
+        "duration" : 254
+      }
+    } ]
+  },
+  " tests/sorting_questions.spec.js User can sort existent questions Numerical sorting" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c39326257cbbe1e",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/8c39326257cbbe1e",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442294108,
+        "stop" : 1647442294357,
+        "duration" : 249
+      }
+    } ]
+  },
+  " tests/reviewing_questions.spec.js User can review saved questions Hiding answer after expanding it" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a117299536996de",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/3a117299536996de",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442291564,
+        "stop" : 1647442291817,
+        "duration" : 253
+      }
+    } ]
+  },
+  " tests/showing_tooltips.spec.js User can see informers while using interface Question maker tooltip" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c40f00720aa637e",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/9c40f00720aa637e",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442292835,
+        "stop" : 1647442293086,
+        "duration" : 251
+      }
+    } ]
+  },
+  " tests/creating_questions.spec.js User can save new question in the list Question field is required" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e9f96b9f2684a92",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/9e9f96b9f2684a92",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442277572,
+        "stop" : 1647442277825,
+        "duration" : 253
+      }
+    } ]
+  },
+  " tests/reviewing_questions.spec.js User can review saved questions Reviewing pre-saved question" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c46b349cbc812ad",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/1c46b349cbc812ad",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442288401,
+        "stop" : 1647442288650,
+        "duration" : 249
+      }
+    } ]
+  },
+  " tests/creating_questions.spec.js User can save new question in the list Creating first question" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e62ac34c2a022ce4",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/e62ac34c2a022ce4",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442282218,
+        "stop" : 1647442282479,
+        "duration" : 261
+      }
+    } ]
+  },
+  " tests/counting_questions.spec.js User can see the number of the saved questions One or more questions" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6691d1e05b78336",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/b6691d1e05b78336",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442275311,
+        "stop" : 1647442275639,
+        "duration" : 328
+      }
+    } ]
+  },
+  " tests/reviewing_questions.spec.js User can review saved questions Reviewing answer within multiple questions" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ba36d76eedd44ef",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/6ba36d76eedd44ef",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442289967,
+        "stop" : 1647442290225,
+        "duration" : 258
+      }
+    } ]
+  },
+  " tests/sorting_questions.spec.js User can sort existent questions Empty list sorting" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bb9988f58f685ac",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/7bb9988f58f685ac",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442294740,
+        "stop" : 1647442295001,
+        "duration" : 261
+      }
+    } ]
+  },
+  " tests/counting_questions.spec.js User can see the number of the saved questions No questions" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e2a13c114301491b",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/e2a13c114301491b",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442276023,
+        "stop" : 1647442276262,
+        "duration" : 239
+      }
+    } ]
+  },
+  " tests/removing_questions.spec.js User can remove saved questions Removing empty list" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2424266ae7f8ffe0",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/2424266ae7f8ffe0",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442286847,
+        "stop" : 1647442287099,
+        "duration" : 252
+      }
+    } ]
+  },
+  " tests/removing_questions.spec.js User can remove saved questions Removing multiple questions" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d5df8e1c7726d26d",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/d5df8e1c7726d26d",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442285322,
+        "stop" : 1647442285567,
+        "duration" : 245
+      }
+    } ]
+  },
+  " tests/creating_questions.spec.js User can save new question in the list Adding more questions to the list" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b28638b1bc0fef53",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/b28638b1bc0fef53",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442280663,
+        "stop" : 1647442280920,
+        "duration" : 257
+      }
+    } ]
+  },
+  " tests/creating_questions.spec.js User can save new question in the list Answer field is required" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a046ff818e44073",
+      "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/1//#testresult/8a046ff818e44073",
+      "status" : "failed",
+      "statusDetails" : "page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\n=========================== logs ===========================\nnavigating to \"/\", waiting until \"domcontentloaded\"\n============================================================",
+      "time" : {
+        "start" : 1647442279126,
+        "stop" : 1647442279371,
+        "duration" : 245
+      }
+    } ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "tests/counting_questions.spec.js",
+    "children" : [ {
+      "name" : "User can see the number of the saved questions",
+      "children" : [ {
+        "name" : "One or more questions",
+        "uid" : "b6691d1e05b78336",
+        "parentUid" : "40ad1bb0c6af49fa6998bad80f336dc1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442275311,
+          "stop" : 1647442275639,
+          "duration" : 328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "No questions",
+        "uid" : "e2a13c114301491b",
+        "parentUid" : "40ad1bb0c6af49fa6998bad80f336dc1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442276023,
+          "stop" : 1647442276262,
+          "duration" : 239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40ad1bb0c6af49fa6998bad80f336dc1"
+    } ],
+    "uid" : "ff022102fb658850a27e166b28948936"
+  }, {
+    "name" : "tests/creating_questions.spec.js",
+    "children" : [ {
+      "name" : "User can save new question in the list",
+      "children" : [ {
+        "name" : "Question field is required",
+        "uid" : "9e9f96b9f2684a92",
+        "parentUid" : "4676e4b48963e79d16b03dcec35b8dbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442277572,
+          "stop" : 1647442277825,
+          "duration" : 253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Answer field is required",
+        "uid" : "8a046ff818e44073",
+        "parentUid" : "4676e4b48963e79d16b03dcec35b8dbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442279126,
+          "stop" : 1647442279371,
+          "duration" : 245
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Adding more questions to the list",
+        "uid" : "b28638b1bc0fef53",
+        "parentUid" : "4676e4b48963e79d16b03dcec35b8dbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442280663,
+          "stop" : 1647442280920,
+          "duration" : 257
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Creating first question",
+        "uid" : "e62ac34c2a022ce4",
+        "parentUid" : "4676e4b48963e79d16b03dcec35b8dbb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442282218,
+          "stop" : 1647442282479,
+          "duration" : 261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4676e4b48963e79d16b03dcec35b8dbb"
+    } ],
+    "uid" : "8c29c1509c709182172113987d5196d1"
+  }, {
+    "name" : "tests/removing_questions.spec.js",
+    "children" : [ {
+      "name" : "User can remove saved questions",
+      "children" : [ {
+        "name" : "Removing single question",
+        "uid" : "d6507396369b8f25",
+        "parentUid" : "6fe8596c96847bf31d4d0eaa55d4b2f2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442283769,
+          "stop" : 1647442284023,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Removing multiple questions",
+        "uid" : "d5df8e1c7726d26d",
+        "parentUid" : "6fe8596c96847bf31d4d0eaa55d4b2f2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442285322,
+          "stop" : 1647442285567,
+          "duration" : 245
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Removing empty list",
+        "uid" : "2424266ae7f8ffe0",
+        "parentUid" : "6fe8596c96847bf31d4d0eaa55d4b2f2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442286847,
+          "stop" : 1647442287099,
+          "duration" : 252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6fe8596c96847bf31d4d0eaa55d4b2f2"
+    } ],
+    "uid" : "c8d75db68cdcb1f85d076357e9377897"
+  }, {
+    "name" : "tests/reviewing_questions.spec.js",
+    "children" : [ {
+      "name" : "User can review saved questions",
+      "children" : [ {
+        "name" : "Reviewing pre-saved question",
+        "uid" : "1c46b349cbc812ad",
+        "parentUid" : "e11e98c467a70db47de1715604da2224",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442288401,
+          "stop" : 1647442288650,
+          "duration" : 249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Reviewing answer within multiple questions",
+        "uid" : "6ba36d76eedd44ef",
+        "parentUid" : "e11e98c467a70db47de1715604da2224",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442289967,
+          "stop" : 1647442290225,
+          "duration" : 258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Hiding answer after expanding it",
+        "uid" : "3a117299536996de",
+        "parentUid" : "e11e98c467a70db47de1715604da2224",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442291564,
+          "stop" : 1647442291817,
+          "duration" : 253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e11e98c467a70db47de1715604da2224"
+    } ],
+    "uid" : "08d8b44caf4e81e49b544a927b3b5045"
+  }, {
+    "name" : "tests/showing_tooltips.spec.js",
+    "children" : [ {
+      "name" : "User can see informers while using interface",
+      "children" : [ {
+        "name" : "Questions tooltip",
+        "uid" : "9a567f8662196d89",
+        "parentUid" : "8cc0bcebe0d679eeeec5a332c5460fb1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442292201,
+          "stop" : 1647442292452,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Question maker tooltip",
+        "uid" : "9c40f00720aa637e",
+        "parentUid" : "8cc0bcebe0d679eeeec5a332c5460fb1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442292835,
+          "stop" : 1647442293086,
+          "duration" : 251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8cc0bcebe0d679eeeec5a332c5460fb1"
+    } ],
+    "uid" : "88b8e1469a08638151e63248fa231cfe"
+  }, {
+    "name" : "tests/sorting_questions.spec.js",
+    "children" : [ {
+      "name" : "User can sort existent questions",
+      "children" : [ {
+        "name" : "Alphabetical sorting",
+        "uid" : "13a41682ad912d29",
+        "parentUid" : "7bc7204d1e40f4a9ff069d90814eeb56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442293464,
+          "stop" : 1647442293719,
+          "duration" : 255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Numerical sorting",
+        "uid" : "8c39326257cbbe1e",
+        "parentUid" : "7bc7204d1e40f4a9ff069d90814eeb56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442294108,
+          "stop" : 1647442294357,
+          "duration" : 249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Empty list sorting",
+        "uid" : "7bb9988f58f685ac",
+        "parentUid" : "7bc7204d1e40f4a9ff069d90814eeb56",
+        "status" : "failed",
+        "time" : {
+          "start" : 1647442294740,
+          "stop" : 1647442295001,
+          "duration" : 261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7bc7204d1e40f4a9ff069d90814eeb56"
+    } ],
+    "uid" : "888fa1d0a7ffdfe7ee466b3cc24d4388"
+  } ],
+  "name" : "suites"
+}

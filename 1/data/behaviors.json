@@ -1,0 +1,226 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "One or more questions",
+    "uid" : "b6691d1e05b78336",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442275311,
+      "stop" : 1647442275639,
+      "duration" : 328
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "No questions",
+    "uid" : "e2a13c114301491b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442276023,
+      "stop" : 1647442276262,
+      "duration" : 239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Question field is required",
+    "uid" : "9e9f96b9f2684a92",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442277572,
+      "stop" : 1647442277825,
+      "duration" : 253
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Answer field is required",
+    "uid" : "8a046ff818e44073",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442279126,
+      "stop" : 1647442279371,
+      "duration" : 245
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Adding more questions to the list",
+    "uid" : "b28638b1bc0fef53",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442280663,
+      "stop" : 1647442280920,
+      "duration" : 257
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Creating first question",
+    "uid" : "e62ac34c2a022ce4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442282218,
+      "stop" : 1647442282479,
+      "duration" : 261
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Removing single question",
+    "uid" : "d6507396369b8f25",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442283769,
+      "stop" : 1647442284023,
+      "duration" : 254
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Removing multiple questions",
+    "uid" : "d5df8e1c7726d26d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442285322,
+      "stop" : 1647442285567,
+      "duration" : 245
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Removing empty list",
+    "uid" : "2424266ae7f8ffe0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442286847,
+      "stop" : 1647442287099,
+      "duration" : 252
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Reviewing pre-saved question",
+    "uid" : "1c46b349cbc812ad",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442288401,
+      "stop" : 1647442288650,
+      "duration" : 249
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Reviewing answer within multiple questions",
+    "uid" : "6ba36d76eedd44ef",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442289967,
+      "stop" : 1647442290225,
+      "duration" : 258
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Hiding answer after expanding it",
+    "uid" : "3a117299536996de",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442291564,
+      "stop" : 1647442291817,
+      "duration" : 253
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Questions tooltip",
+    "uid" : "9a567f8662196d89",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442292201,
+      "stop" : 1647442292452,
+      "duration" : 251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Question maker tooltip",
+    "uid" : "9c40f00720aa637e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442292835,
+      "stop" : 1647442293086,
+      "duration" : 251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Alphabetical sorting",
+    "uid" : "13a41682ad912d29",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442293464,
+      "stop" : 1647442293719,
+      "duration" : 255
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Numerical sorting",
+    "uid" : "8c39326257cbbe1e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442294108,
+      "stop" : 1647442294357,
+      "duration" : 249
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Empty list sorting",
+    "uid" : "7bb9988f58f685ac",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1647442294740,
+      "stop" : 1647442295001,
+      "duration" : 261
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}
