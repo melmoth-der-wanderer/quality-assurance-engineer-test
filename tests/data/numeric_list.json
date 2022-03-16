@@ -1,5 +1,0 @@
-[
-{"question": "3. What is Callback?","answer": "A callback is a plain JavaScript function passed to some method as an argument or option."},
-{"question": "1. How does TypeOf Operator work?","answer": "The typeof operator is used to get the data type of its operand."},
-{"question": "2. What is NaN in JavaScript?","answer": "NaN is a short form of Not a Number."}
-]
