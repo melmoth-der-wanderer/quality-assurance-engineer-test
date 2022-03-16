@@ -1,17 +1,57 @@
-# Quality Assurance engineer test
-Welcome to the QA Engineer tech test. We expect the work to take around 1 to 1.5 hours, and we thank
-you in advance for taking that time for us!
+# The awesome Q/A tool Automation
+Test execution results: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-yellowgreen)](https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/)
+---
+Project: The awesome Q/A tool
+---
 
-This test consists of two parts: a written part and a coding part. For the written part, we would
-like to receive a PDF, slide presentation or MD file with your insights. For the coding part, a fork of this repo with
-your solution will do.
+### User Flows
+Described here: https://miro.com/app/board/uXjVOFTuoTs=/
+(if it will not open, PDF version is also provided: `user_flow.pdf`)
+---
 
-### Automated Testing Assignment
-You can fork (and then clone your own version of) this repo and run:
+### Technology
+Playwright, Allure Report, Eslint, Faker
+---
 
+### Browsers
+Chrome, Firefox, Safari
+---
+## Local Set Up
+
+Clone the repository to your local computer
 ```
-$ python -m http.server 8000
+git clone https://github.com/melmoth-der-wanderer/quality-assurance-engineer-test.git
 ```
 
-You now have a working frontend app that you will write some kind of automated user acceptence tests for.
-The language of framework you use does not matter, but we prefer JS, PHP or Python.
+Use the package manager `npm` to install dependencies:
+```
+npm install
+```
+
+Run the UI automation tests in parallel (Chrome, Firefox, Safari):
+```
+npm test
+```
+(please note, that this command also runs web-server inside)
+
+Run the UI automation tests in headful mode using 1 worker:
+```
+npm run debug
+```
+(please note, that this command also runs web-server inside)
+
+Get the report:
+```
+npm run report
+```
+---
+
+#### Notes:
+
+- Without product requirements it is impossible to assure that these use cases are completely correct and provide full coverage;
+- Priority of these use cases can be changed with product owner and developer assistance;
+- Have been used a combination of standard assertions and snapshot ones;
+- Structure and selected test scenarios must be discussed via pull-request procedure with a team;
+- Preferably, existent tests should be written in the lower layer, as there are no integrations at all. But the goal of this project was to show competence in e2e tests creation;
+- There is no API provided in that demo-app. In reality API opens a lot of possibilities to make tests better (for example: authentication via API, items list manipulating, etc);
+- Mobile emulation is also possible, but wasn't considered in this project as it is completely adaptive.
