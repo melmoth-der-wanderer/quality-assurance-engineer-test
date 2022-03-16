@@ -1,19 +1,34 @@
-## The awesome Q/A tool Automation
+# The awesome Q/A tool Automation
 Test execution results: [![Allure Report](https://img.shields.io/badge/Allure%20Report-deployed-yellowgreen)](https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/)
-
+---
 Project: The awesome Q/A tool
+---
 
-#### User Flows
+### User Flows
 Described here: https://miro.com/app/board/uXjVOFTuoTs=/
 (if it will not open, PDF version is also provided: `user_flow.pdf`)
 
-#### Technology
+---
+
+### Technology
 Playwright, Allure Report, Eslint, Faker
 
-#### Browsers
+---
+
+### Browsers
 Chrome, Firefox, Safari
 
-#### Local Set Up
+---
+
+### Platforms
+MacOS, Linux
+
+---
+
+### CI
+Have been used Github Actions. Job is running automatically on the `push` action. See details `.github/workflows/playwright.yml`
+
+## Local Set Up
 
 Clone the repository to your local computer
 ```
