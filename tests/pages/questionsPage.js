@@ -31,7 +31,7 @@ exports.QuestionsPage = class QuestionsPage {
   }
 
   async goto() {
-    await this.page.goto(this.URL, { waitUntil: 'domcontentloaded' });
+    await this.page.goto(this.URL);
   }
 
   async createQuestion(question, answer) {

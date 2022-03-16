@@ -15,7 +15,7 @@
   "scripts": {
     "pre-commit": "run-p lint:staged",
     "lint:staged": "lint-staged",
-    "test": "npx playwright test --reporter=line --config=./tests/config/playwright.config.js",
+    "test": "npx playwright test --reporter=line,allure-playwright --config=./tests/config/playwright.config.js",
     "debug": "npx playwright test --reporter=line --headed --workers=1 --config=./tests/config/playwright.config.js",
     "report": "allure generate ./allure-results --clean && allure open ./allure-report"
   },
