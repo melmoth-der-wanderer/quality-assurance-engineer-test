@@ -1,0 +1,5 @@
+[
+{"question": "Is JavaScript a case-sensitive language?","answer": "Yes, JavaScript is a case sensitive language."},
+{"question": "What is the purpose of 'this' operator in JavaScript?","answer": "The JavaScript this keyword refers to the object it belongs to."},
+{"question": "How can you create an object in JavaScript?","answer": "You can create an object using the object literal."}
+]
