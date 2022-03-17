@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #1997023428",
+  "buildUrl" : "https://github.com/melmoth-der-wanderer/quality-assurance-engineer-test/actions/runs/1997023428",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/quality-assurance-engineer-test/4/"
+} ]
