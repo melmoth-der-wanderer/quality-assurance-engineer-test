@@ -26,7 +26,7 @@ MacOS, Linux
 ---
 
 ### CI
-Have been used Github Actions. Job is running automatically on the `push` action. See details `.github/workflows/playwright.yml`
+Have been used Github Actions. Job is running automatically on the `push` action. See details `.github/workflows/playwright.yml`. This job will run full regression test suite in 3 browsers. In real life there will be different options to manipulate the numbers of tests and browsers to provide: Smoke, Acceptance and Regression tasks for different purposes.
 
 ## Local Set Up
 
@@ -65,5 +65,5 @@ npm run report
 - Have been used a combination of standard assertions and snapshot ones;
 - Structure and selected test scenarios must be discussed via pull-request procedure with a team;
 - Preferably, existent tests should be written in the lower layer, as there are no integrations at all. But the goal of this project was to show competence in e2e tests creation;
-- There is no API provided in that demo-app. In reality API opens a lot of possibilities to make tests better (for example: authentication via API, items list manipulating, etc);
+- There is no API provided in that demo-app. In reality API opens a lot of possibilities to make tests better (for example: authentication via API, questions list manipulating, etc);
 - Mobile emulation is also possible, but wasn't considered in this project as it is completely adaptive.
